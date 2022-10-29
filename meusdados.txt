@@ -1,7 +1,6 @@
 -------------------------------------SMN-------------------------------------
-Nome: Rafael    
-Sobrenome: Galvao Lopes de Mendonca
-Data de Nascimento: 22/07/1999
-Objetivo: poder trabalhar diariamente como desenvolvedor e poder liderar um time
+Nome: Gabriel    
+Sobrenome: da Silva Santos
+Data de Nascimento: 30/11/2001
+Objetivo: codar muito e derrubar o guigas
 -----------------------------------------------------------------------------
-
