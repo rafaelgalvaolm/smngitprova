@@ -1,7 +1,7 @@
 -------------------------------------SMN-------------------------------------
-Nome: 
-Sobrenome: 
-Data de Nascimento: 
-Objetivo: 
+Nome: Rafael    
+Sobrenome: Galvao Lopes de Mendonca
+Data de Nascimento: 22/07/1999
+Objetivo: poder trabalhar diariamente como desenvolvedor e poder liderar um time
 -----------------------------------------------------------------------------
 
