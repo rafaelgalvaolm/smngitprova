@@ -1,6 +1,6 @@
 -------------------------------------SMN-------------------------------------
-Nome: Gabriel    
-Sobrenome: da Silva Santos
-Data de Nascimento: 30/11/2001
-Objetivo: codar muito e derrubar o guigas
+Nome: Lucas   
+Sobrenome: Nobrega Pacheco
+Data de Nascimento: 12/02/1996
+Objetivo: derruabar gustavo
 -----------------------------------------------------------------------------
